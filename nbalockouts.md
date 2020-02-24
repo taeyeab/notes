@@ -1,4 +1,4 @@
-#참고문헌
+# 참고문헌
 * nba lockouts https://en.wikipedia.org/wiki/NBA_lockout
 * 95-96 NBA lockout
   * https://en.wikipedia.org/wiki/1995–96_NBA_season#1995_NBA_lockout
